@@ -1,2 +1,6 @@
-# portafolio
-Se entrega en este proyecto una reseña general de la empresa individual que he formado, su visión y misión.  
+# portafolio acerca de la empresa de innovación tecnológica entronomía
+## lenguajes y herramientas utilizadas:
+* HTML
+* CSS
+* Visual Studio Code
+### realizado por: Roberto Pérez Mateluna
